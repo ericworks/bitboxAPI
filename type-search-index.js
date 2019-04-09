@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"unimelb.bitbox.util","l":"FileSystemManager"},{"p":"unimelb.bitbox.util","l":"FileSystemManager.EVENT"},{"p":"unimelb.bitbox.util","l":"FileSystemManager.FileDescriptor"},{"p":"unimelb.bitbox.util","l":"FileSystemManager.FileSystemEvent"}]
